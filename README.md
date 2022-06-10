@@ -39,4 +39,10 @@ python render.py --path_to_image ... --path_to_label ... --render_mode auto --st
 python render.py --path_to_image ... --path_to_label ... --render_mode auto --style "Vintage/Retro" --render_walls --wall_color "#E8C7C7"
 ```
 
-![Генерация интерьера для спальни](dining-room-pipeline.png)
+![Генерация интерьера для гостиной-столовой](dining-room-pipeline.png)
+
+Данные изображения были задействованы в примерах пояснительной записки (Рисунки 15, 16. Для рисунка 16 (и для других сравнений)
+камера при рендеринге помещалась над комнатой).
+scene-diversity-example
+
+![Сравнение](scene-diversity-example.png)
