@@ -46,3 +46,6 @@ python render.py --path_to_image ... --path_to_label ... --render_mode auto --st
 scene-diversity-example
 
 ![Сравнение](scene-diversity-example.png)
+
+Пример сохранения `.gif` изображения.
+![Example of a rendered room](example.gif)
